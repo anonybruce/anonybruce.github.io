@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.anonyome.mysudo.dev",
+    "sha256_cert_fingerprints":
+    ["26:3F:42:88:D6:DD:54:B9:BE:2E:02:DC:AD:91:D8:C3:30:20:BF:11:BA:74:6C:68:A0:84:C5:3B:C3:08:BD:D2"]
+  }
+}]
